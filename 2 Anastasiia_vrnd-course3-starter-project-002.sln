@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A4D1D4D8-DF22-37C2-E81D-CF6ECAF0A239}") = "2 Anastasiia_vrnd-course3-starter-project-002", "Assembly-CSharp.csproj", "{72A4CD10-C79D-6B2B-AB3E-63214666FEAB}"
+EndProject
+Project("{A4D1D4D8-DF22-37C2-E81D-CF6ECAF0A239}") = "2 Anastasiia_vrnd-course3-starter-project-002", "Assembly-CSharp-Editor.csproj", "{7742ECEB-EFDD-4221-CFF0-B20898630E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A4CD10-C79D-6B2B-AB3E-63214666FEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A4CD10-C79D-6B2B-AB3E-63214666FEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A4CD10-C79D-6B2B-AB3E-63214666FEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A4CD10-C79D-6B2B-AB3E-63214666FEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7742ECEB-EFDD-4221-CFF0-B20898630E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7742ECEB-EFDD-4221-CFF0-B20898630E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7742ECEB-EFDD-4221-CFF0-B20898630E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7742ECEB-EFDD-4221-CFF0-B20898630E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
